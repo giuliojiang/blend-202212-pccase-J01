@@ -7,6 +7,7 @@ A blender blueprint for a custom PC case.
 * Standard 200mm*125mm wall brackets structure
 * GPU bracket holder
 * 3mm colored acrylic panels, magnet-mounted
+* Compact and space-efficient. GPU in preview is modelled after the size of a 7900XTX
 
 ## Preview
 
