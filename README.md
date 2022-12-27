@@ -11,4 +11,6 @@ A blender blueprint for a custom PC case.
 
 ## Preview
 
-![](https://github.com/giuliojiang/blend-202212-pccase-J01/raw/main/out/202212181332.JPG)
+![](https://github.com/giuliojiang/blend-202212-pccase-J01/raw/main/out/202212271311.JPG)
+
+![](https://github.com/giuliojiang/blend-202212-pccase-J01/raw/main/out/202212271311-2.JPG)
